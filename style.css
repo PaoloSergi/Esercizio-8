@@ -15,6 +15,9 @@ body{
     top:50%;
     left:50%;
     transform:translate(-50%,-50%);
+    margin-top:30px;
+    margin-left:20px;
+    margin-right:20px;
 }
 header{
     color:#389598;
@@ -39,6 +42,7 @@ main{
     content:"";
     display:table;
     margin:auto;
+    width:100%;
 }
 section{
     height:180px;
@@ -47,6 +51,7 @@ section{
     float:left;
     margin-right:1%;
     margin-left:1%;
+    
     
 }
 section>div{
